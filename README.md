@@ -29,7 +29,7 @@ Relational Database Design (SQL), Game Design (C#), and Streaming Technologies &
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="[www.linkedin.com/in/filippos-obrijanu](https://www.linkedin.com/in/filippos-obrijanu/)" target="_blank">
+  <a href="https://www.linkedin.com/in/filippos-obrijanu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:obrizanou@gmail.com">
