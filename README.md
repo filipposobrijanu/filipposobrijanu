@@ -24,7 +24,7 @@
 
 ### ⚙️ Also familiar with
 
-Relational Database Design (SQL), Motion Compensation Algorithms, Git/GitHub Workflows, and 6G Wireless Network Concepts.
+Relational Database Design (SQL), Game Design (C#), and Streaming Technologies & Video Delivery.
 
 ### 📫 Connect with me
 
