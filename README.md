@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I am Filippos 👋
 
-<!--
-**filipposobrijanu/filipposobrijanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I am currently studying Computer Science at the **University of Piraeus**, actively building a professional portfolio and seeking opportunities as a web developer.
+🎨 I love building full-stack applications with seamless, modern user experiences (like glassmorphism UIs) and robust real-time functionality. 
+🚀 I am currently developing **ProjectHub**, a modern SaaS-style project management interface, alongside robust real-time applications.
+🔥 When I am not writing code, I am usually keeping up with the professional Counter-Strike esports scene, exploring streaming technologies, or collaborating on university tech projects.
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### ⚙️ Also familiar with
+
+Relational Database Design (SQL), Motion Compensation Algorithms, Git/GitHub Workflows, and 6G Wireless Network Concepts.
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="www.linkedin.com/in/filippos-obrijanu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:obrizanou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</p>
