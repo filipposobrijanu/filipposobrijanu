@@ -5,9 +5,7 @@
 ### 👨‍💻 About Me
 
 🎓 I am currently studying Computer Science at the **University of Piraeus**, actively building a professional portfolio and seeking opportunities as a web developer.
-🎨 I love building full-stack applications with seamless, modern user experiences (like glassmorphism UIs) and robust real-time functionality. 
-🚀 I am currently developing **ProjectHub**, a modern SaaS-style project management interface, alongside robust real-time applications.
-🔥 When I am not writing code, I am usually keeping up with the professional Counter-Strike esports scene, exploring streaming technologies, or collaborating on university tech projects.
+🎨 I love building full-stack applications with seamless, modern user experiences and robust real-time functionality. 
 
 ### 🛠️ Languages and Tools
 
