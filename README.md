@@ -36,15 +36,6 @@ I build **scalable, full-stack web applications** with a focus on seamless user 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-### 📂 Featured Projects
-
-* **[ESN UniPi Portal](https://esn-unipi-12345.netlify.app/)**: A three-tier full-stack ecosystem (Client, Admin CMS, API Server) built to manage news, events, and community submissions.
-    * *Technologies:* React, Node.js, Express, MongoDB, Cloudinary API, Render Deployment.
-
----
-
 ### ⚙️ Also familiar with
 * **Relational Database Design (SQL)
 * **Game Design (C#)
