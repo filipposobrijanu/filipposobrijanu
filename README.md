@@ -33,13 +33,12 @@ I build **scalable, full-stack web applications** with a focus on seamless user 
 #### Tools & Dev Environment
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### ⚙️ Also familiar with
-* **Relational Database Design (SQL)
-* **Game Design (C#)
-* **Streaming Technologies & Video Delivery
+* Relational Database Design (SQL)
+* Game Design (C#)
+* Streaming Technologies & Video Delivery
 
 ---
 
