@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me
 
-🎓 I am currently studying Computer Science at the **University of Piraeus**, actively building a professional portfolio and seeking opportunities as a web developer.
-🎨 I love building full-stack applications with seamless, modern user experiences and robust real-time functionality. 
+I am currently studying Computer Science at the **University of Piraeus**, actively building a professional portfolio and seeking opportunities as a web developer.
+I love building full-stack applications with seamless, modern user experiences and robust real-time functionality. 
 
 ### 🛠️ Languages and Tools
 
