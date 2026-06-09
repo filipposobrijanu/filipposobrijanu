@@ -1,37 +1,63 @@
-# Hi, I am Filippos 👋
+# Hi, I'm Filippos 👋
+### Full-Stack Developer | Computer Science Student at the University of Piraeus
 
-### Full-Stack Web Developer
+I build **scalable, full-stack web applications** with a focus on seamless user experiences and efficient data-driven backends. I thrive at the intersection of clean UI and robust, real-time architecture.
 
-### 👨‍💻 About Me
+---
 
-I am currently studying Computer Science at the **University of Piraeus**, actively building a professional portfolio and seeking opportunities as a web developer.
-I love building full-stack applications with seamless, modern user experiences and robust real-time functionality. 
+### 🚀 What I Bring to the Table
+* **Full-Stack Proficiency:** Bridging the gap between intuitive React interfaces and powerful MongoDB/Node.js backends.
+* **Architecture Mindset:** Experience in managing multi-tier applications (Frontend, Admin CMS, and RESTful APIs).
+* **Modern Toolchain:** Passionate about clean code, component-based architecture, and performance-first web design.
+* **Continuous Learner:** Currently diving deep into high-performance streaming technologies and system design.
 
-### 🛠️ Languages and Tools
+---
 
+### 🛠️ Tech Stack
+
+#### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚙️ Also familiar with
+#### Backend & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
 
-Relational Database Design (SQL), Game Design (C#), and Streaming Technologies & Video Delivery.
+#### Tools & Dev Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+* **[ESN UniPi Portal](https://esn-unipi-12345.netlify.app/)**: A three-tier full-stack ecosystem (Client, Admin CMS, API Server) built to manage news, events, and community submissions.
+    * *Technologies:* React, Node.js, Express, MongoDB, Cloudinary API, Render Deployment.
+
+---
+
+### 📈 What I'm currently exploring
+* **Advanced System Design:** Building more efficient APIs and improving database query optimization.
+* **Streaming Technologies:** Interested in how real-time data delivery scales.
+* **C# / Game Design:** Bridging the logic of game mechanics with web-based application state.
+
+---
 
 ### 📫 Connect with me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/filippos-obrijanu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:obrizanou@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </p>
