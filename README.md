@@ -45,10 +45,10 @@ I build **scalable, full-stack web applications** with a focus on seamless user 
 
 ---
 
-### 📈 What I'm currently exploring
-* **Advanced System Design:** Building more efficient APIs and improving database query optimization.
-* **Streaming Technologies:** Interested in how real-time data delivery scales.
-* **C# / Game Design:** Bridging the logic of game mechanics with web-based application state.
+### ⚙️ Also familiar with
+* **Relational Database Design (SQL)
+* **Game Design (C#)
+* **Streaming Technologies & Video Delivery
 
 ---
 
