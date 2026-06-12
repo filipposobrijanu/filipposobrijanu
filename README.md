@@ -5,18 +5,26 @@
   I build <strong>scalable, full-stack web applications</strong> with a focus on seamless user experiences and efficient data-driven backends. I thrive at the intersection of clean UI and robust, real-time architecture.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/filippos-obrijanu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:obrizanou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 ---
 
-### 🚀 What I Bring to the Table
+### 🚀 Engineering Competencies
 
-* **Full-Stack Proficiency:** Bridging the gap between intuitive React interfaces and powerful MongoDB/Node.js backends.
-* **Architecture Mindset:** Experience in managing multi-tier applications, including client-facing frontends, Admin CMS, and RESTful APIs.
-* **Modern Toolchain:** Passionate about clean code, component-based architecture, and performance-first web design.
+* **Modern UI/UX Architecture:** Specializing in the React/Next.js ecosystem. I build responsive, accessible interfaces leveraging Tailwind CSS and Shadcn UI, with a strong design affinity for dark mode SaaS aesthetics, glassmorphism, and bold Neobrutalist layouts.
+* **Event-Driven & Real-Time Systems:** Designing low-latency, full-duplex communication pipelines using WebSockets (Socket.io) for live collaborative environments and instant messaging engines.
 * **Continuous Learner:** Actively diving deep into high-performance streaming technologies and system design.
+* **Full-Lifecycle Development:** Managing multi-tier applications from secure RESTful APIs and stateless JWT authentication to decoupled Admin CMS dashboards and media streaming pipelines.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Production Tech Stack
 
 **Frontend Development**
 <p align="left">
@@ -52,7 +60,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### ⚙️ Also Familiar With
+### Also Familiar With
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -63,19 +71,9 @@
   <img src="https://img.shields.io/badge/Video_Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Streaming Technologies" />
 </p>
 
-* **Relational Database Design:** Structuring and optimizing SQL databases.
+### 🧠 Academic Focus & Ongoing Research
+
+Beyond standard web development, my computer science studies and personal research dive into complex algorithmic logic and system optimization:
+* **Interactive Environments:** Engineering performant object-oriented logic and kinematic systems using C# and Unity.
 * **Game Design:** Developing logic and mechanics using C#.
 * **Media Delivery:** Understanding streaming technologies and video delivery protocols.
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/filippos-obrijanu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:obrizanou@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
