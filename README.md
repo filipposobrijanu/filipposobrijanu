@@ -81,5 +81,10 @@
 
 ---
 
-* **Simulations & Interactive Systems:** Engineering performant, object-oriented architectural layers and kinematic physics engines within the Unity ecosystem using C#.
-* **State Machinery & Component Architecture:** Designing complex event-driven loops, modular entity behaviors, and decoupled manager patterns—honing structural patterns that directly translate to advanced frontend state management.
+### 📂 Featured Engineering Showcases
+
+| Platform | Core Architecture | Engineering Highlight |
+| :--- | :--- | :--- |
+| 💬 **Blabber Chat** | `React 18` `TypeScript` `Socket.io` `Node.js` | Built a custom Discord-inspired multi-pane UI featuring low-latency, full-duplex communication pipelines with live presence indicators and typing triggers. |
+| 🎓 **ESN UniPi Portal** | `React 18` `Axios` `Bootstrap 5` `Dotenv` | Engineered a highly responsive community hub for international students, implementing decoupled client-side data fetching layouts hitting independent API nodes. |
+| 🏆 **Yeat Song Battle App** | `JavaScript ES6` `Bootstrap 5` `Spotify API` | Orchestrated a deterministic client-side state machine that executes algorithmic matchup scheduling across a dynamic tournament bracket tree. |
