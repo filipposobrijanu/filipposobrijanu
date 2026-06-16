@@ -81,8 +81,5 @@
 
 ---
 
-### 🧠 Academic Focus & Ongoing Research
-
-Beyond standard web development, my computer science studies and personal research dive into complex algorithmic logic and system optimization:
-* **Interactive Environments:** Engineering performant object-oriented logic and kinematic systems using C# and Unity.
-* **Game Design:** Developing logic and mechanics using C#.
+* **Simulations & Interactive Systems:** Engineering performant, object-oriented architectural layers and kinematic physics engines within the Unity ecosystem using C#.
+* **State Machinery & Component Architecture:** Designing complex event-driven loops, modular entity behaviors, and decoupled manager patterns—honing structural patterns that directly translate to advanced frontend state management.
