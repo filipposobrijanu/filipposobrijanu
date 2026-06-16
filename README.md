@@ -85,6 +85,6 @@
 
 | Platform | Core Architecture | Engineering Highlight |
 | :--- | :--- | :--- |
-| 💬 **Blabber Chat** | `React 18` `TypeScript` `Socket.io` `Node.js` | Built a custom Discord-inspired multi-pane UI featuring low-latency, full-duplex communication pipelines with live presence indicators and typing triggers. |
-| 🎓 **ESN UniPi Portal** | `React 18` `Axios` `Bootstrap 5` `Dotenv` | Engineered a highly responsive community hub for international students, implementing decoupled client-side data fetching layouts hitting independent API nodes. |
-| 🏆 **Yeat Song Battle App** | `JavaScript ES6` `Bootstrap 5` `Spotify API` | Orchestrated a deterministic client-side state machine that executes algorithmic matchup scheduling across a dynamic tournament bracket tree. |
+| **Blabber Chat** | `React 18` `TypeScript` `Socket.io` `Node.js` | Built a custom Discord-inspired multi-pane UI featuring low-latency, full-duplex communication pipelines with live presence indicators and typing triggers. |
+| **Flavr** | `Next.js` `Tailwind CSS` `Firebase` `Node.js` | Architected a full-stack culinary application featuring asset optimization pipelines, seamless backend data curation, and atomic layout state synchronization. |
+| **ESN UniPi Portal** | `React 18` `Axios` `Bootstrap 5` `Dotenv` | Engineered a highly responsive community hub for international students, implementing decoupled client-side data fetching layouts hitting independent API nodes. |
