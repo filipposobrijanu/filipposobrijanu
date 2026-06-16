@@ -18,10 +18,10 @@
 
 ### 🚀 Engineering Competencies
 
-* **Modern UI/UX Architecture:** Specializing in the React/Next.js ecosystem. I build responsive, accessible interfaces leveraging Tailwind CSS and Shadcn UI, with a strong design affinity for dark mode SaaS aesthetics, glassmorphism, and bold Neobrutalist layouts.
+* **Modern UI/UX Architecture:** Specializing in the React/Next.js ecosystem. I build responsive, accessible interfaces leveraging Tailwind CSS with a strong design affinity for dark mode SaaS aesthetics, glassmorphism, and bold Neobrutalist layouts.
 * **Event-Driven & Real-Time Systems:** Designing low-latency, full-duplex communication pipelines using WebSockets (Socket.io) for live collaborative environments and instant messaging engines.
 * **Continuous Learner:** Actively diving deep into high-performance streaming technologies and system design.
-* **Full-Lifecycle Development:** Managing multi-tier applications from secure RESTful APIs and stateless JWT authentication to decoupled Admin CMS dashboards and media streaming pipelines.
+* **Full-Lifecycle Development:** Managing multi-tier applications from secure RESTful APIs and stateless JWT authentication to decoupled Admin CMS dashboards.
 
 ---
 
@@ -69,7 +69,6 @@
   <img src="https://img.shields.io/badge/Java_EE-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java EE" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Video_Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Streaming Technologies" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
@@ -80,4 +79,3 @@
 Beyond standard web development, my computer science studies and personal research dive into complex algorithmic logic and system optimization:
 * **Interactive Environments:** Engineering performant object-oriented logic and kinematic systems using C# and Unity.
 * **Game Design:** Developing logic and mechanics using C#.
-* **Media Delivery:** Understanding streaming technologies and video delivery protocols.
