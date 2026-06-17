@@ -86,5 +86,5 @@
 | Platform | Core Architecture | Engineering Highlight |
 | :--- | :--- | :--- |
 | **Blabber Chat** | `React 18` `TypeScript` `Socket.io` `Node.js` `Express.js` `Nodemailer` `Bootstrap 5` `Mongo.db` `Axios` | Built a custom Discord-inspired multi-pane UI featuring low-latency, full-duplex communication pipelines with live presence indicators and typing triggers. |
-| **Flavr** | `Next.js` `React 18` `Tailwind CSS` `Supabase` `Node.js` `Cloudinary` `Prisma ORM` | Architected a full-stack culinary application featuring asset optimization pipelines, seamless backend data curation, and atomic layout state synchronization. |
+| **Flavr** | `Next.js` `React 18` `Tailwind CSS` `Supabase` `Node.js` `Cloudinary` `Prisma ORM` | Architected a Neobrutalist discovery platform integrating a mathematical Bayesian rating algorithm to eliminate review skewing, shielded by rigid server-side Role-Based Access Control (RBAC) middleware. |
 | **ESN UniPi Portal** | `React 18` `Axios` `Mongo.db` `Bootstrap 5` `Node.js` `Express.js` | Engineered a highly responsive community hub for international students, implementing decoupled client-side data fetching layouts hitting independent API nodes. |
