@@ -85,6 +85,6 @@
 
 | Platform | Core Architecture | Engineering Highlight |
 | :--- | :--- | :--- |
-| **Blabber Chat** | `React 18` `TypeScript` `Socket.io` `Node.js` `Express.js` `Nodemailer` `Bootstrap 5` `Mongo.db` `Axios` | Built a custom Discord-inspired multi-pane UI featuring low-latency, full-duplex communication pipelines with live presence indicators and typing triggers. |
+| **Blabber Chat** | `React 18` <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> `TypeScript` `Socket.io` `Node.js` `Express.js` `Nodemailer` `Bootstrap 5` `Mongo.db` `Axios` | Built a custom Discord-inspired multi-pane UI featuring low-latency, full-duplex communication pipelines with live presence indicators and typing triggers. |
 | **Flavr** | `Next.js` `React 18` `Tailwind CSS` `Supabase` `Node.js` `Cloudinary` `Prisma ORM` | Architected a Neobrutalist discovery platform integrating a mathematical Bayesian rating algorithm to eliminate review skewing, shielded by rigid server-side Role-Based Access Control (RBAC) middleware. |
 | **ESN UniPi Portal** | `React 18` `Axios` `Mongo.db` `Bootstrap 5` `Node.js` `Express.js` | Engineered a highly responsive community hub for international students, implementing decoupled client-side data fetching layouts hitting independent API nodes. |
