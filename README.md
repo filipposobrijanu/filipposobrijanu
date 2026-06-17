@@ -88,3 +88,12 @@
 | **Blabber Chat** | `React 18` `TypeScript` `Socket.io` `Node.js` `Express.js` `Nodemailer` `Mongo.db` `Axios` | Built a custom Discord-inspired multi-pane UI featuring low-latency, full-duplex communication pipelines with live presence indicators and typing triggers. |
 | **Flavr** | `Next.js` `React 18` `Tailwind CSS` `Supabase` `Node.js` `Cloudinary` `Prisma ORM` | Architected a full-stack culinary application featuring asset optimization pipelines, seamless backend data curation, and atomic layout state synchronization. |
 | **ESN UniPi Portal** | `React 18` `Axios` `Mongo.db` `Bootstrap 5` `Node.js` `Express.js` | Engineered a highly responsive community hub for international students, implementing decoupled client-side data fetching layouts hitting independent API nodes. |
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipposobrijanu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Filippos's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipposobrijanu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+</p>
