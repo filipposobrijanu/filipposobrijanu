@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Filippos 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Computer Science Student @ University of Piraeus</h3>
+<h3 align="center">Frontend-Focused Full-Stack Developer | Computer Science Student @ University of Piraeus</h3>
 
 <p align="center">
   I build <strong>scalable, full-stack web applications</strong> with a focus on seamless user experiences and efficient data-driven backends. I thrive at the intersection of clean UI and robust, real-time architecture.
