@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer | Computer Science Student @ University of Piraeus</h3>
 
 <p align="center">
-  I build <strong>high-performance, full-stack web applications</strong> with a strong affinity for clean UI/UX and scalable, real-time architectures. I thrive at the intersection of modern frontend design systems and type-safe backend logic.
+  I build <strong>high-performance, web applications</strong> with a strong affinity for clean UI/UX and scalable, real-time architectures. I thrive at the intersection of modern frontend design systems and type-safe backend logic.
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ### 🚀 Core Engineering Competencies
 
-* **Modern Design Systems & Performance:** Specializing in the React/Next.js ecosystem. Deeply focused on responsive layouts, UI polish (Tailwind CSS), and smooth interactive animations (Framer Motion) while keeping Core Web Vitals optimized.
-* **Bi-Directional Communication:** Designing resilient Socket.io layers for live collaborative environments, ensuring efficient payload management and scalable connection lifecycle handling between client and server.
-* **Academic Computer Science Foundations:** Leveraging solid knowledge in data structures, relational databases, and computer networking principles to write clean, maintainable, and architecturally sound code.
+**Type-Safe Data Hydration & State:** Leveraging TypeScript to enforce strict data contracts across the frontend ecosystem. Experienced in orchestrating asynchronous data flows, implementing efficient client-side caching, and managing state transitions smoothly from server components down to interactive UI elements.
+* **Performance & Utility-First Styling:** Obsessed with fluid layouts and exceptional UX using Tailwind CSS. I write clean, responsive markup with a strict eye on Core Web Vitals, optimizing rendering paths, reducing bundle sizes, and utilizing programmatic animations (Framer Motion) intentionally to enhance, not distract.
+* * **Academic Computer Science Foundations:** Leveraging solid knowledge in data structures, relational databases, and computer networking principles to write clean, maintainable, and architecturally sound code.
 
 ---
 
@@ -109,7 +109,7 @@
 ### 📂 Featured Engineering Showcases
 
 #### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
-> **Stack:** Next.js (App Router), TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
+> **Stack:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
 * Developed a high-impact, custom **Neobrutalist UI/UX** utilizing Tailwind CSS and performance-optimized layout strategies.
 * Architected a multi-role management console with fluid layout transitions, featuring secure client-side protected routes and dynamic state mutations for real-time menu orchestration.
 * Implemented a **custom Bayesian Average ranking algorithm** to process and sort restaurant reviews accurately, preventing data skewing from isolated ratings.
@@ -120,7 +120,7 @@
 * Integrated **WebSockets (Socket.io)** to support real-time state synchronization, live global user presence states, and active user typing indicators.
 * Designed a decoupled API layer featuring stateless user sessions, seamless asset hosting via Cloudinary, and transactional email integrations via Nodemailer.
 
-#### [ESN UniPi Portal – Mobile-First Community Hub](https://github.com/filipposobrijanu/esn-frontend)
+#### [ESN UniPi Portal – Community Hub](https://github.com/filipposobrijanu/esn-frontend)
 > **Stack:** React 18, JavaScript ES6, Axios, Node.js, Express, MongoDB, Bootstrap 5, Cloudinary
 * Built a production-ready, mobile-first community web application tailored for international student onboarding and events tracking.
 * Designed an efficient, decoupled client-side data orchestration system using Axios for streamlined, asynchronous API polling.
