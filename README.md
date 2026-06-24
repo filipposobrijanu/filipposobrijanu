@@ -110,17 +110,17 @@
 
 #### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
-* Developed a high-impact, custom Neobrutalist UI/UX utilizing Tailwind CSS and performance-optimized layout strategies.
-* Formulated strict relational database schemas via Prisma ORM on Supabase, architecting robust multi-tenant data models for restaurant hierarchies while leveraging optimized connection pooling for high-frequency CRUD transactions.
-* Programmed a server-side Bayesian Average ranking engine to calculate true weighted scores, mathematically mitigating statistical skew from isolated ratings to ensure authentic product discoverability.
+* Built a custom, responsive Neobrutalist UI using Tailwind CSS, optimized for fast page loads and visual layout stability.
+* Designed relational database schemas with Prisma and Supabase to structure complex restaurant hierarchies and handle high-frequency CRUD actions.
+* Developed a server-side Bayesian ranking engine to calculate fair, weighted rating scores, preventing unfair rating shifts from isolated user reviews.
 
 #### [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
 > **Stack:** React 18, TypeScript, Socket.io, Node.js, Express, MongoDB, Cloudinary, Bootstrap 5
-* Architected a responsive, multi-pane workspace layout optimized for high-density data streams, ensuring seamless viewport adaptation and fluid interface transitions between active channels.
-* Engineered an event-driven communication pipeline via WebSockets (Socket.io) to handle real-time state synchronization, typing telemetry, and global user presence tracking.
-* Designed a decoupled RESTful API backend featuring stateless JWT authentication, a secure cloud-native media ingestion pipeline (Cloudinary), and automated transactional communication routines (Nodemailer).
+* Designed a multi-pane responsive workspace layout optimized to display heavy chat activity and fluid channel switching across all devices.
+* Built a real-time messaging pipeline using Socket.io to synchronize active chat states, user online tracking, and live typing indicators.
+* Developed a secure RESTful API backend featuring stateless JWT authentication, media uploads via Cloudinary, and automated email alerts using Nodemailer.
 
 #### [ESN UniPi Portal – Community Hub](https://github.com/filipposobrijanu/esn-frontend)
 > **Stack:** React 18, JavaScript ES6, Axios, Node.js, Express, MongoDB, Bootstrap 5, Cloudinary
-* Engineered a high-availability community portal and dynamic event-tracking platform, streamlining onboarding workflows and localized information discovery for international networks.
-* Architected a modular data-fetching architecture using custom Axios layers to orchestrate asynchronous API polling, manage request lifecycles, and cleanly decouple network states from the UI rendering layer.
+* Engineered a community portal and event tracker to streamline onboarding and help international students easily discover local event information.
+* Set up a clean data-fetching architecture with Axios to manage background API polling and keep the user interface independent from network loading states.
