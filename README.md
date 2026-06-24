@@ -18,8 +18,8 @@
 
 ### 🚀 Core Engineering Competencies
 
-* **Type-Safe Data Hydration & State:** Leveraging TypeScript to enforce strict data contracts across the frontend ecosystem. Experienced in orchestrating asynchronous data flows, implementing efficient client-side caching, and managing state transitions smoothly from server components down to interactive UI elements.
-* **Performance & Utility-First Styling:** Obsessed with fluid layouts and exceptional UX using Tailwind CSS. I write clean, responsive markup with a strict eye on Core Web Vitals, optimizing rendering paths, reducing bundle sizes, and utilizing programmatic animations (Framer Motion) intentionally to enhance, not distract.
+* **Component-Driven Architecture:** Designing highly modular, reusable, and predictable UI components using React and Next.js. I focus on abstracting complex client-side logic into clean custom hooks and decoupled state providers to keep the codebase maintainable.
+* **Full-Stack Context & Synergy:** Understanding that the frontend doesn't live in a vacuum. I build interfaces with a deep comprehension of underlying backend architectures—ensuring seamless integration with RESTful APIs, real-time WebSocket streams (Socket.io), and relational/document databases.
 * **Academic Computer Science Foundations:** Leveraging solid knowledge in data structures, relational databases, and computer networking principles to write clean, maintainable, and architecturally sound code.
 
 ---
