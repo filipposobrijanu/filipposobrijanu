@@ -111,17 +111,17 @@
 #### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
 * Developed a high-impact, custom **Neobrutalist UI/UX** utilizing Tailwind CSS and performance-optimized layout strategies.
-* Architected a multi-role management console with fluid layout transitions, featuring secure client-side protected routes and dynamic state mutations for real-time menu orchestration.
+* Orchestrated fluid workspace transitions and contextual micro-interactions via declarative animations, enhancing layout clarity for non-technical users
 * Implemented a **custom Bayesian Average ranking algorithm** to process and sort restaurant reviews accurately, preventing data skewing from isolated ratings.
 
 #### [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
 > **Stack:** React 18, TypeScript, Socket.io, Node.js, Express, MongoDB, Cloudinary, Bootstrap 5
-* Engineered a full-featured, responsive multi-pane instant messaging web application delivering sub-100ms communication flows.
+* Engineered a full-featured, responsive multi-pane instant messaging web application.
 * Integrated **WebSockets (Socket.io)** to support real-time state synchronization, live global user presence states, and active user typing indicators.
 * Designed a decoupled API layer featuring stateless user sessions, seamless asset hosting via Cloudinary, and transactional email integrations via Nodemailer.
 
 #### [ESN UniPi Portal – Community Hub](https://github.com/filipposobrijanu/esn-frontend)
 > **Stack:** React 18, JavaScript ES6, Axios, Node.js, Express, MongoDB, Bootstrap 5, Cloudinary
-* Built a production-ready, mobile-first community web application tailored for international student onboarding and events tracking.
+* Built a production-ready, community web application tailored for international student onboarding and events tracking.
 * Designed an efficient, decoupled client-side data orchestration system using Axios for streamlined, asynchronous API polling.
 * Implemented optimized image rendering and content delivery pipelines to ensure excellent performance on lower-tier mobile networks.
