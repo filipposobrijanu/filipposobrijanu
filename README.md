@@ -124,4 +124,3 @@
 > **Stack:** React 18, JavaScript ES6, Axios, Node.js, Express, MongoDB, Bootstrap 5, Cloudinary
 * Engineered a high-availability community portal and dynamic event-tracking platform, streamlining onboarding workflows and localized information discovery for international networks.
 * Architected a modular data-fetching architecture using custom Axios layers to orchestrate asynchronous API polling, manage request lifecycles, and cleanly decouple network states from the UI rendering layer.
-* Implemented aggressive client-side asset optimization leveraging responsive rendering primitives and progressive loading strategies to minimize bandwidth overhead and ensure excellent fluidity on low-tier cellular networks.
