@@ -50,21 +50,13 @@
 
 
 
-**Backend & Server-Side Runtimes**
+**Backend, Databases & Infrastructure**
 
 <p align="left">
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-
-</p>
-
-
-
-**Databases & Cloud Storage & Object-Data Modeling**
-
-<p align="left">
 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
@@ -77,8 +69,6 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 
 </p>
-
-
 
 **Real-Time, Protocols & Security & Access Management**
 
