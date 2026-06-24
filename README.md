@@ -59,19 +59,19 @@
 
 ### 📂 Featured Engineering Showcases
 
-#### ⚡ [Flavr – Modern Restaurant Management SaaS](https://github.com/filipposobrijanu/flavr-website-app)
+#### [Flavr – Modern Restaurant Management SaaS](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js (App Router), TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
 * Developed a high-impact, custom **Neobrutalist UI/UX** utilizing Tailwind CSS and performance-optimized layout strategies.
 * Engineered a secure, role-based CRUD administrative dashboard allowing restaurant managers to track operational workflows and menu streams dynamically.
 * Implemented a **custom Bayesian Average ranking algorithm** to process and sort restaurant reviews accurately, preventing data skewing from isolated ratings.
 
-#### 💬 [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
+#### [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
 > **Stack:** React 18, TypeScript, Socket.io, Node.js, Express, MongoDB, Cloudinary, Bootstrap 5
 * Engineered a full-featured, responsive multi-pane instant messaging web application delivering sub-100ms communication flows.
 * Integrated **WebSockets (Socket.io)** to support real-time state synchronization, live global user presence states, and active user typing indicators.
 * Designed a decoupled API layer featuring stateless user sessions, seamless asset hosting via Cloudinary, and transactional email integrations via Nodemailer.
 
-#### 🌐 [ESN UniPi Portal – Mobile-First Community Hub](https://github.com/filipposobrijanu/esn-frontend)
+#### [ESN UniPi Portal – Mobile-First Community Hub](https://github.com/filipposobrijanu/esn-frontend)
 > **Stack:** React 18, JavaScript ES6, Axios, Node.js, Express, MongoDB, Bootstrap 5, Cloudinary
 * Built a production-ready, mobile-first community web application tailored for international student onboarding and events tracking.
 * Designed an efficient, decoupled client-side data orchestration system using Axios for streamlined, asynchronous API polling.
