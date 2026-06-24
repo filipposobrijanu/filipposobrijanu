@@ -18,9 +18,9 @@
 
 ### 🚀 Core Engineering Competencies
 
-* **Component-Driven Architecture:** Designing highly modular, reusable, and predictable UI components using React and Next.js. I focus on abstracting complex client-side logic into clean custom hooks and decoupled state providers to keep the codebase maintainable.
-* **Full-Stack Context & Synergy:** Understanding that the frontend doesn't live in a vacuum. I build interfaces with a deep comprehension of underlying backend architectures—ensuring seamless integration with RESTful APIs, real-time WebSocket streams (Socket.io), and relational/document databases.
-* **Academic Computer Science Foundations:** Leveraging solid knowledge in data structures, relational databases, and computer networking principles to write clean, maintainable, and architecturally sound code.
+* **Component-Driven Architecture:** Building modular, reusable UI components with React and Next.js. I use custom hooks and clean state management to keep the codebase structured and easy to maintain.
+* **Full-Stack Integration:** Designing frontends that connect smoothly with backends. Experienced in linking interfaces to RESTful APIs, real-time WebSockets (Socket.io), and relational or document databases.
+* **Computer Science Foundations:** Applying core academic concepts in data structures, databases, and networking to write clean, reliable, and well-structured code.
 
 ---
 
