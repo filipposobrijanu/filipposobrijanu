@@ -110,7 +110,7 @@
 
 #### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
-* Developed a high-impact, custom **Neobrutalist UI/UX** utilizing Tailwind CSS and performance-optimized layout strategies.
+* Developed a high-impact, custom Neobrutalist UI/UX utilizing Tailwind CSS and performance-optimized layout strategies.
 * Engineered an adaptive, mobile-first workspace grid designed for fast-paced environments, ensuring complex administrative tools scale fluidly onto tablet and mobile viewports.
 * Programmed a server-side Bayesian Average ranking engine to calculate true weighted scores, mathematically mitigating statistical skew from isolated ratings to ensure authentic product discoverability.
 
