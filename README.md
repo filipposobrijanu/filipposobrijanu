@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Filippos 👋</h1>
-<h3 align="center">Frontend-Focused Full-Stack Developer | Computer Science Student @ University of Piraeus</h3>
+<h3 align="center">Frontend Web Developer | Computer Science Student @ University of Piraeus</h3>
 
 <p align="center">
   I build <strong>high-performance, full-stack web applications</strong> with a strong affinity for clean UI/UX and scalable, real-time architectures. I thrive at the intersection of modern frontend design systems and type-safe backend logic.
@@ -19,7 +19,7 @@
 ### 🚀 Core Engineering Competencies
 
 * **Modern Design Systems & Performance:** Specializing in the React/Next.js ecosystem. Deeply focused on responsive layouts, UI polish (Tailwind CSS), and smooth interactive animations (Framer Motion) while keeping Core Web Vitals optimized.
-* **Real-Time & Event-Driven Systems:** Designing low-latency, full-duplex communication layers using WebSockets (Socket.io) for live concurrent environments and messaging engines.
+* **Bi-Directional Communication:** Designing resilient Socket.io layers for live collaborative environments, ensuring efficient payload management and scalable connection lifecycle handling between client and server.
 * **Academic Computer Science Foundations:** Leveraging solid knowledge in data structures, relational databases, and computer networking principles to write clean, maintainable, and architecturally sound code.
 
 ---
@@ -108,10 +108,10 @@
 
 ### 📂 Featured Engineering Showcases
 
-#### [Flavr – Modern Restaurant Management SaaS](https://github.com/filipposobrijanu/flavr-website-app)
+#### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js (App Router), TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
 * Developed a high-impact, custom **Neobrutalist UI/UX** utilizing Tailwind CSS and performance-optimized layout strategies.
-* Engineered a secure, role-based CRUD administrative dashboard allowing restaurant managers to track operational workflows and menu streams dynamically.
+* Architected a multi-role management console with fluid layout transitions, featuring secure client-side protected routes and dynamic state mutations for real-time menu orchestration.
 * Implemented a **custom Bayesian Average ranking algorithm** to process and sort restaurant reviews accurately, preventing data skewing from isolated ratings.
 
 #### [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
