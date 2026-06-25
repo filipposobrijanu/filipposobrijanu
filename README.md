@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Filippos 👋</h1>
+<h1 align="center">Hi, I'm Filippos</h1>
 <h3 align="center">Frontend Web Developer | Computer Science Student @ University of Piraeus</h3>
 
 <p align="center">
-  I build <strong>high-performance, web applications</strong> with a strong affinity for clean UI/UX and scalable, real-time architectures. I thrive at the intersection of modern frontend design systems and type-safe backend logic.
+  I build <strong>high quality, web applications</strong> with a strong passion for clean UI/UX and scalable, real-time architectures. I thrive at the fusion of modern frontend design systems and type-safe backend logic.
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ---
 
-### 🚀 Core Engineering Competencies
+### Core Engineering Competencies
 
-* **Component-Driven Architecture:** Building modular, reusable UI components with React and Next.js. I use custom hooks and clean state management to keep the codebase structured and easy to maintain.
-* **Full-Stack Integration:** Designing frontends that connect smoothly with backends. Experienced in linking interfaces to RESTful APIs, real-time WebSockets (Socket.io), and relational or document databases.
+* **Component-Driven Architecture:** Building modular, reusable UI components with React and Next.js. I use custom hooks and clean state management to keep the coding structured and easy to maintain.
+* **Full-Stack Integration:** Designing frontends that connect smoothly with backends. Experienced in linking interfaces to RESTful APIs, real-time WebSockets (Socket.io), and relational or non-relational databases.
 * **Computer Science Foundations:** Applying core academic concepts in data structures, databases, and networking to write clean, reliable, and well-structured code.
 
 ---
@@ -108,17 +108,17 @@
 
 #### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
-* Built a custom, responsive Neobrutalist UI using Tailwind CSS, optimized for fast page loads and visual layout stability.
+* Built a responsive Neobrutalist UI using Tailwind CSS, optimized for fast page loads and visual layout stability.
 * Designed relational database schemas with Prisma and Supabase to structure complex restaurant hierarchies and handle high-frequency CRUD actions.
-* Developed a server-side Bayesian ranking engine to calculate fair, weighted rating scores, preventing unfair rating shifts from isolated user reviews.
+* Developed a complex Bayesian ranking engine to calculate fair, weighted rating scores, preventing unfair rating shifts from isolated user reviews.
 
 #### [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
 > **Stack:** React 18, TypeScript, Socket.io, Node.js, Express, MongoDB, Cloudinary, Bootstrap 5
-* Designed a multi-pane responsive workspace layout optimized to display heavy chat activity and fluid channel switching across all devices.
+* Designed a split-view responsive workspace layout optimized to display heavy chat activity and fluid channel switching across all devices.
 * Built a real-time messaging pipeline using Socket.io to synchronize active chat states, user online tracking, and live typing indicators.
 * Developed a secure RESTful API backend featuring stateless JWT authentication, media uploads via Cloudinary, and automated email alerts using Nodemailer.
 
 #### [ESN UniPi Portal – Community Hub](https://github.com/filipposobrijanu/esn-frontend)
 > **Stack:** React 18, JavaScript ES6, Axios, Node.js, Express, MongoDB, Bootstrap 5, Cloudinary
-* Engineered a community portal and event tracker to streamline onboarding and help international students easily discover local event information.
+* Engineered a community portal and event tracker to facilitate seamless student integration and help international students to easily discover local event information.
 * Set up a clean data-fetching architecture with Axios to manage background API polling and keep the user interface independent from network loading states.
