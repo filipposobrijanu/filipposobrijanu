@@ -109,7 +109,7 @@
 #### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
 * Built a responsive Neobrutalist UI using Tailwind CSS, optimized for fast page loads and visual layout stability.
-* Designed relational database schemas with Prisma and Supabase to structure complex restaurant hierarchies and handle high-frequency CRUD actions.
+* Designed relational database schemas with Prisma and Supabase to structure complex restaurant hierarchies and handle CRUD actions.
 * Developed a complex Bayesian ranking engine to calculate fair, weighted rating scores, preventing unfair rating shifts from isolated user reviews.
 
 #### [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
@@ -122,3 +122,4 @@
 > **Stack:** React 18, JavaScript ES6, Axios, Node.js, Express, MongoDB, Bootstrap 5, Cloudinary
 * Engineered a community portal and event tracker to facilitate seamless student integration and help international students to easily discover local event information.
 * Set up a clean data-fetching architecture with Axios to manage background API polling and keep the user interface independent from network loading states.
+
