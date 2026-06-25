@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Production Tech Stack
+### Production Tech Stack
 
 **Frontend Development**
 
@@ -104,7 +104,7 @@
 
 ---
 
-### 📂 Featured Engineering Showcases
+### Featured Engineering Showcases
 
 #### [Flavr – Modern Restaurant Evaluation Platform](https://github.com/filipposobrijanu/flavr-website-app)
 > **Stack:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Prisma ORM, Cloudinary
