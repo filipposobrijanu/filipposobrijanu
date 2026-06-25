@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer | Computer Science Student @ University of Piraeus</h3>
 
 <p align="center">
-  I build <strong>high quality, web applications</strong> with a strong passion for clean UI/UX and scalable, real-time architectures. I thrive at the fusion of modern frontend design systems and type-safe backend logic.
+  I build <strong>high quality web applications</strong> with a strong passion for clean UI/UX and scalable, real-time architectures. I thrive at the fusion of modern frontend design systems and type-safe backend logic.
 </p>
 
 <p align="center">
