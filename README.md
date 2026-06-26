@@ -115,7 +115,7 @@
 #### [Blabber Chat – Real-Time Messaging Platform](https://github.com/filipposobrijanu/blabber-frontend)
 > **Stack:** React 18, TypeScript, Socket.io, Node.js, Express, MongoDB, Cloudinary, Bootstrap 5
 * Designed a split-view responsive workspace layout optimized to display heavy chat activity and fluid channel switching across all devices.
-* Built a real-time messaging pipeline using Socket.io to synchronize active chat states, user online tracking, and live typing indicators.
+* Architected a real-time messaging pipeline using Socket.io to manage active chat states, online tracking, and live typing indicators.
 * Developed a secure RESTful API backend featuring stateless JWT authentication, media uploads via Cloudinary, and automated email alerts using Nodemailer.
 
 #### [ESN UniPi Portal – Community Hub](https://github.com/filipposobrijanu/esn-frontend)
